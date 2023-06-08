@@ -1,10 +1,8 @@
 <h1>Hi, I'm Caio and welcome to my profile! 👋</h1>
 
-- 🔭 I am currently looking for opportunities to get my first job.
-- 🌱 I’m currently learning Full-Stack Development.
+- 🌱 I’m currently iOS Developer at Apple Developer Academy.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Caio-Swift" height="45" width="45" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/swift/swift-original.svg">
   <img align="center" alt="Ally-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Ally-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
