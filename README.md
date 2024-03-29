@@ -1,6 +1,6 @@
 <h1>Hi, I'm Caio and welcome to my profile! 👋</h1>
 
-- 🌱 I’m currently iOS Developer at Apple Developer Academy.
+- 🌱
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Swift" height="45" width="45" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/swift/swift-original.svg">
